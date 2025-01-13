@@ -54,8 +54,9 @@ Inicie o servidor Expo:
     npm start
     # ou
     yarn start
-    Escaneie o QR Code exibido no terminal ou no navegador com o app Expo Go no seu dispositivo móvel.
 ```
+
+Escaneie o QR Code exibido no terminal ou no navegador com o app Expo Go no seu dispositivo móvel.
 
 ## Contribuição
 ### Para contribuir com o projeto:
