@@ -37,8 +37,8 @@ App.tsx              # Arquivo principal do React Native
 Clone este repositório:
 
 ```
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/TImoteoVieira/web_car.git
+    cd web_car
 ```
 
 ## Instale as dependências do projeto:
