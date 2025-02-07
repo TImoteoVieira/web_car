@@ -11,7 +11,7 @@
 ---
 
 ## Descrição
-Este projeto foi desenvolvido em **React Native** com o objetivo de [adicionar descrição específica aqui, por exemplo: gerenciar veículos, etc.].
+Este projeto foi desenvolvido em **React Native** com o objetivo de testar rotas de navegação e exposição de informações.
 
 ---
 
